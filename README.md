@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igaurav100 (Gaurav Sharma)
 - 👀 I’m interested in Cloud, DevOps and Migration
-- 🌱 I’m currently learning Artificail Enginnering
+- 🌱 I’m currently learning AI Engineering
 - 💞️ I’m looking to collaborate on OpenSource
 - 📫 How to reach me igaurav1002@gmail.com
 
